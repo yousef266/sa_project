@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "657cdc13bd2e8eb1b62a5e32"
+  },
+  "name": "math",
+  "hours": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ce55044fbda60b0846e91"
+  },
+  "name": "ld",
+  "hours": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ce55444fbda60b0846e93"
+  },
+  "name": "sa",
+  "hours": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ce55944fbda60b0846e95"
+  },
+  "name": "is",
+  "hours": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ce56744fbda60b0846e97"
+  },
+  "name": "it",
+  "hours": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ce56b44fbda60b0846e99"
+  },
+  "name": "cs",
+  "hours": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ce56f44fbda60b0846e9b"
+  },
+  "name": "pl2",
+  "hours": 3,
+  "__v": 0
+}]

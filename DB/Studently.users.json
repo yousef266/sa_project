@@ -1,0 +1,68 @@
+[{
+  "_id": "657ce41117b8e38194c4f341",
+  "points": 0,
+  "totalHours": 72,
+  "totalGpa": 2.5,
+  "isAdmin": true,
+  "__v": 0,
+  "subjects": {
+    "0": {
+      "name": "math",
+      "hours": "3"
+    },
+    "1": {
+      "name": "ld",
+      "hours": "3"
+    },
+    "2": {
+      "name": "sa",
+      "hours": "3"
+    },
+    "3": {
+      "name": "is",
+      "hours": "3"
+    },
+    "4": {
+      "name": "it",
+      "hours": "3"
+    },
+    "5": {
+      "name": "cs",
+      "hours": "3"
+    }
+  }
+},
+{
+  "_id": "657e29f7a177f5820530fa01",
+  "points": 0,
+  "totalHours": 0,
+  "totalGpa": 0,
+  "isAdmin": false,
+  "__v": 0,
+  "subjects": {
+    "0": {
+      "name": "math",
+      "hours": "3"
+    },
+    "1": {
+      "name": "ld",
+      "hours": "3"
+    },
+    "2": {
+      "name": "sa",
+      "hours": "3"
+    },
+    "3": {
+      "name": "is",
+      "hours": "3"
+    },
+    "4": {
+      "name": "it",
+      "hours": "3"
+    },
+    "5": {
+      "name": "cs",
+      "hours": "3"
+    }
+  }
+}]

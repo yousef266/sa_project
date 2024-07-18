@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "657cde19ceaa048397f048ef"
+  },
+  "name": "123.png",
+  "subject": "math",
+  "url": "math/123.png",
+  "contentType": "image/png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657cdfbfceaa048397f048fb"
+  },
+  "name": "Lec 1.pdf",
+  "subject": "math",
+  "url": "math/Lec 1.pdf",
+  "contentType": "application/pdf",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ce0d9dcc297288163d06f"
+  },
+  "name": "Screenshot 2023-11-28 211046.png",
+  "subject": "math",
+  "url": "math/Screenshot 2023-11-28 211046.png",
+  "contentType": "image/png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ce5eb44fbda60b0846ea3"
+  },
+  "name": "Lecture 6.pdf",
+  "subject": "ld",
+  "url": "ld/Lecture 6.pdf",
+  "contentType": "application/pdf",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657ec39b9ae96ec782733b9a"
+  },
+  "name": "Screenshot 2023-11-28 211046.png",
+  "subject": "pl2",
+  "url": "pl2/Screenshot 2023-11-28 211046.png",
+  "contentType": "image/png",
+  "__v": 0
+}]

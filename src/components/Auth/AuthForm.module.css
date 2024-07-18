@@ -1,0 +1,73 @@
+.form {
+	max-width: 60rem;
+	margin: 2rem auto;
+	background-color: #242424;
+	color: white;
+	color-scheme: light dark;
+	padding: 50px;
+	line-height: 40px;
+	border-radius: 20px;
+	display: flex;
+	flex-direction: column;
+	height: fit-content;
+	grid-column: span 2;
+	grid-row: span 2;
+	width: 700px;
+	position: relative;
+	top: 50px;
+}
+
+.form h1 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.form label,
+.form input,
+.form textarea {
+	display: block;
+	width: 100%;
+}
+
+.form input,
+.form textarea {
+	font: inherit;
+	padding: 0.25rem;
+	border-radius: 5px;
+}
+
+.actions {
+	display: flex;
+	gap: 1rem;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.actions button {
+	font: inherit;
+	cursor: pointer;
+	margin-top: 20px;
+	padding: 0.5px 20px;
+	border-radius: 4px;
+	background-color: #005cc8;
+	border: none;
+}
+
+.actions a {
+	text-decoration: none;
+	font: inherit;
+	cursor: pointer;
+	margin-top: 20px;
+	padding: 0.5px 20px;
+	border-radius: 4px;
+	background-color: #005cc8;
+	border: none;
+}
+
+.actions button:hover {
+	background-color: #004a9e;
+}
+
+.actions a:hover {
+	background-color: #004a9e;
+}
